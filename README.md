@@ -1,5 +1,7 @@
 # JanKalyan (जनकल्याण) — AI Welfare Scheme Chatbot
 
+**Live Demo:** [https://jankalyan-chatbot.onrender.com](https://jankalyan-chatbot.onrender.com)
+
 **AI-based multilingual chatbot for Indian welfare scheme awareness.**
 
 Helps rural beneficiaries discover government schemes they're eligible for, in Hindi, Tamil, and English — including code-mixed input.
